@@ -4,5 +4,8 @@
     "chai": "^4.3.7",
     "jquery": "^3.7.0",
     "mocha": "^10.2.0"
+  },
+  "devDependencies": {
+    "hint": "^7.1.8"
   }
 }
